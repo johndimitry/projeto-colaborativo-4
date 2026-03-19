@@ -1,1 +1,1 @@
-teste
+print("isso sim é um teste")
