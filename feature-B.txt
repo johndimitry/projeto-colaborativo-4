@@ -1,1 +1,1 @@
-teste
+print ("isso sim e um teste")
